@@ -1,0 +1,6 @@
+# Random agent
+./wumpus.py
+# eqv. python wumpus.py -a DummyAgent -w 4 -s 40 -g 0
+
+echo "** Exercise 1: Goald Based Agent"
+./wumpus.py -a GoalBasedAgent -w 10 -g 1
